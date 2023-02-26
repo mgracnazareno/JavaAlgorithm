@@ -9,9 +9,9 @@ Celles-ci  les questions de cette exercices:
 * 3-	Écrire un programme qui permet d’afficher le maximum parmi 2 nombres entrés par l’utilisateur.
 
 # Exercice 2 : 
-* - Permettre à l’utilisateur d’entrer la longueur et la largeur d’un rectangle, affichez par la suite le périmètre et la surface de ce rectangle. Assurez-vous que l’utilisateur ne rentre pas des valeurs négatives.
+* Permettre à l’utilisateur d’entrer la longueur et la largeur d’un rectangle, affichez par la suite le périmètre et la surface de ce rectangle. Assurez-vous que l’utilisateur ne rentre pas des valeurs négatives.
 #  Exercice 3 :
-* - Permettre à l’utilisateur d’entrer le radius d’un cercle, et calculer sa surface et son périmètre, afficher le résultat dans le format de deux chiffres après la virgule. Assurez-vous que l’utilisateur ne rentre pas des valeurs négatives.
+* Permettre à l’utilisateur d’entrer le radius d’un cercle, et calculer sa surface et son périmètre, afficher le résultat dans le format de deux chiffres après la virgule. Assurez-vous que l’utilisateur ne rentre pas des valeurs négatives.
 # Exercice 4 :
 * -Permettre à l’utilisateur d’entrer son âge, si l’âge entré est >=18ans alors un message est affiché indiquant son âge ainsi que la décision s’il est majeur ou non. Faites les validations nécessaires.
 #  Exercice 5 :
