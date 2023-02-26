@@ -5,8 +5,8 @@ Celles-ci  les questions de cette exercices:
 
 # Exercice 1 : nous allons reprendre quelques exercices du labo 1 en java
 1-	Modifier l’algorithme de la calculatrice simple afin qu’elle puisse effectuer en plus des additions et des soustractions,  des opérations de multiplications et de divisions. Assurez-vous que l’on ne puisse diviser par zéro.
-# 2-	Écrire un algorithme qui permet d’échanger le contenu de deux variables
-# 3-	Écrire un programme qui permet d’afficher le maximum parmi 2 nombres entrés par l’utilisateur.
+* 2-	Écrire un algorithme qui permet d’échanger le contenu de deux variables
+* 3-	Écrire un programme qui permet d’afficher le maximum parmi 2 nombres entrés par l’utilisateur.
 
 #Exercice 2 : 
 # - Permettre à l’utilisateur d’entrer la longueur et la largeur d’un rectangle, affichez par la suite le périmètre et la surface de ce rectangle. Assurez-vous que l’utilisateur ne rentre pas des valeurs négatives.
