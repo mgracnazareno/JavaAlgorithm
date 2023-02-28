@@ -1,7 +1,7 @@
 # JavaAlgorithm
 Ce repository contient les réponses aux exercices dans l’algorithme en java en utilisant Netbeans version 12.4.
 
-Celles-ci  les questions de cette exercices: 
+Celles-ci  les questions des exercices pendant le séance de cours Algorithme en java.
 
 # Exercice 1 : nous allons reprendre quelques exercices du labo 1 en java
 * 1-	Modifier l’algorithme de la calculatrice simple afin qu’elle puisse effectuer en plus des additions et des soustractions,  des opérations de multiplications et de divisions. Assurez-vous que l’on ne puisse diviser par zéro.
